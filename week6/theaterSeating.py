@@ -18,7 +18,7 @@ def display():
 seatMap = []
 rowList = []
 
-seats = "ABCDEFGHIJLMNOPQRSTUVWXYZ1234"
+seatsValid = "ABCDEFGHIJLMNOPQRSTUVWXYZ1234"
 
 for x in range(0, 15):
     #x --> row num, j --> indiv seat
